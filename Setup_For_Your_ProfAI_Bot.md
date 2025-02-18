@@ -12,9 +12,6 @@ Initialize it with:
 2️⃣ Project Directory Structure
 Your bot's project should be organized like this:
 
-bash
-Copy
-Edit
 CryptoBot/
 │── commands/          # Folder for bot commands
 │   ├── price.py       # Fetch crypto prices
